@@ -57,6 +57,11 @@ footer {
   border-radius: 15px;
 }
 
+select{
+  padding: 5px;
+  border-radius: 5px;
+}
+
 @media (max-width: 768px) {
   .team-stats {
     flex-direction: column;
